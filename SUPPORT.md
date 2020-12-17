@@ -33,4 +33,5 @@ If you need support or help for source-code, you may...
 - E-Mail: [![Write an e-mail](https://cdn.webfan.de/email.jpg)](https://webfan.de/contact/)
 - USt-IdNr.: DE280259761
 
-
+### Status Reports
+Visit our [Status Page](https://status.frdl.de/) to get information about platform status, incidents, downtimes and other issues of the network and its infrastructure.

@@ -27,7 +27,7 @@ If you need support or help for source-code, you may...
 ````   
 - Telefon: +49-234-7921596
 - Mobil: +49-174-4440298
-- E-Mail: ![Write an e-mail](https://cdn.webfan.de/email.jpg)
+- E-Mail: [![Write an e-mail](https://cdn.webfan.de/email.jpg)](https://webfan.de/contact/)
    
 - USt-IdNr.: DE280259761
 
